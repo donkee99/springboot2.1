@@ -5,7 +5,7 @@ spring-boot-web-restful 第2-1课：Spring Boot 对基础 Web开发的支持(下
 spring-boot-jsp 第 2-2 课：Spring Boot 项目中使用JSP  
 spring-boot-thymeleaf 第2-3课：模板引擎 Thymeleaf 基础使用  
 spring-boot-thymeleaf-layout 第 2-5 课：Thymeleaf布局  
-spring-boot-file-upload 第 2-6 课：使用 Spring Boot 和 Thymeleaf 演示上传⽂件  
+spring-boot-file-upload 第 2-6 课：使用 Spring Boot 和 Thymeleaf 演示上传文件  
 spring-boot-fastdfs 第 2-7 课：使用Spring Boot 上传文件到FastDFS  
 spring-boot-jdbc 第 3-1 课：Spring Boot 使用JDBC 操作数据库  
 spring-boot-mybatis-xml 第 3-2 课：如何优雅地使用MyBatis XML 配置版  
